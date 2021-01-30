@@ -1,5 +1,12 @@
 # maquette-design-une agence touristique 
 
+# Projet by :
+    <a href="https://github.com/faical23>Faical Bahsis</a>
+    <a href="https://github.com/zolminey">Mohamed amine sobhi</a>
+    <a href="https://github.com/RBOUABANA">Redoine bouabana</a>
+
+
+
 <img src="Charte_ghraphique/images/responsive.png">
 
 
