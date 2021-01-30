@@ -3,7 +3,7 @@
 # Projet by :
 
 <a href="https://github.com/faical23">Faical Bahsis</a><br/>
-<a href="https://github.com/zolminey">Mohamed mine Sobhi</a><br/>
+<a href="https://github.com/zolmine">Mohamed mine Sobhi</a><br/>
 <a href="https://github.com/RBOUABANA">Redoine Bouabana</a>
 
 <img src="Charte_ghraphique/images/responsive.png">
