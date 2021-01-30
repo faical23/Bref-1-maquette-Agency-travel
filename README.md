@@ -1,6 +1,6 @@
 # maquette-dsign-une agence touristique 
 
-<img src="Charte_ghraphique/responsive.png">
+<img src="file:///C:/Users/adm/Desktop/new-git/Brief_Maquettage_Agence_Touristique/Charte_ghraphique/images/responsive.png">
 
 
 Dans le but d'améliorer son UI/UX et d'ajouter d'autres pages à son site ,une agence touristique va vous fournir la maquette de son site afin de :
