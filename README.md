@@ -12,13 +12,12 @@
 
 # Trello Board
 
-<img src="trello_progress/progress 1.png">
-<img src="trello_progress/progress 2.png">
-<img src="trello_progress/progress 3.png">
-<img src="trello_progress/progress 4.png">
+<img src="trello_progress/Starting.png">
+<img src="trello_progress/progress_1.png">
+<img src="trello_progress/progress_2.png">
+<img src="trello_progress/Done.png">
 
 
 
-<img src="Charte_ghraphique/imges/responsive.png">
 
 
